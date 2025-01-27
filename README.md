@@ -1,3 +1,3 @@
 # Sebastian-s-Portfolio
 
-This is just a practice activty
+This is just a practice activity
